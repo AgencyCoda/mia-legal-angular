@@ -1,12 +1,9 @@
 import { NgModule } from '@angular/core';
-import { MiaLegalComponent } from './mia-legal.component';
-
-
 
 @NgModule({
-  declarations: [MiaLegalComponent],
+  declarations: [],
   imports: [
   ],
-  exports: [MiaLegalComponent]
+  exports: []
 })
 export class MiaLegalModule { }
